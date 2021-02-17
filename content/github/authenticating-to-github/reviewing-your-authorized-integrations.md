@@ -1,3 +1,5 @@
+K
+K
 ---
 title: Reviewing your authorized integrations
 intro: You can review your authorized integrations to audit the access that each integration has to your account and data.
